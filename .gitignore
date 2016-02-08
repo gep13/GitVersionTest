@@ -234,3 +234,8 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+# Build related
+tools/Cake/
+tools/nuget.exe
+tools/GitVersion.CommandLine/
