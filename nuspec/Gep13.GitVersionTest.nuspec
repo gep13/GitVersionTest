@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>Gep13.GitVersionTest</id>
+    <version>0.0.0</version>
+    <authors>gep13</authors>
+    <owners>gep13</owners>
+    <summary>Test Package for GitVersion</summary>
+    <description>Test Package for GitVersion</description>
+    <licenseUrl>https://github.com/gep13/GitVersionTest/blob/develop/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/gep13/GitVersionTest</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <copyright>Copyright (c) Gary Ewan Park</copyright>
+    <tags>GitVersion Build Semantic</tags>
+  </metadata>
+  <files>
+    <file src="Gep13.GitVersionTest.dll" target="lib/net45" />
+  </files>
+</package>
